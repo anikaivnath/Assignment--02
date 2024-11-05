@@ -9,7 +9,7 @@
     line-height: 1.2;
   }
   .explore-btn {
-    background-color: #2c3e3f; /* Dark button background */
+    background-color: #6e8d8f; /* Dark button background */
     color: white;
     padding: 10px 20px;
     border: none;
@@ -17,37 +17,11 @@
     font-weight: bold;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
   }
-  .image-container {
-    background-color: #7bb896; /* Slightly darker green for the image section */
-    padding: 20px;
-    border-radius: 20px;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .image-container::before {
-    content: "";
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background-color: #2c3e3f; /* Dots color */
-    border-radius: 50%;
-    top: 10%;
-    left: 10%;
-  }
-  .image-container::after {
-    content: "";
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background-color: #2c3e3f; /* Dots color */
-    border-radius: 50%;
-    bottom: 10%;
-    right: 10%;
-  }
+ 
   .fashion-image {
-    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 auto;
     max-width: 300px;
-    border-radius: 10px;
+    
   }
