@@ -25,3 +25,12 @@
     max-width: 300px;
     
   }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(1); /* Makes the icons black */
+  }
+
+  /* Center carousel and set background to ensure carousel slides are centered */
+  .carousel-item img {
+    margin: 0 auto;
+  }
