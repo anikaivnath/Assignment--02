@@ -2,10 +2,13 @@
 
 
 
+.bg-color{
+  background-color: #b2ebd4; 
 
+}
 
 .fashion-section {
-    background-color: #b2ebd4; /* Light green background */
+    /* Light green background */
     padding: 50px;
     border-radius: 20px;
   }
