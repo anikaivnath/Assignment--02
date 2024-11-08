@@ -7,15 +7,9 @@
 
 }
 
-.fashion-section {
-    /* Light green background */
-    padding: 50px;
-    border-radius: 20px;
-  }
   .fashion-text h1 {
     font-weight: bold;
     font-size: 2.5rem;
-    line-height: 1.2;
   }
   .explore-btn {
     background-color: #242525; /* Dark button background */
@@ -31,7 +25,6 @@
     display: flex;
     justify-content: flex-end;
     margin: 0 auto;
-    max-width: 300px;
     
   }
   .carousel-control-prev-icon,
