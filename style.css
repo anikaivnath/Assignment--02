@@ -30,7 +30,17 @@
     filter: invert(1); /* Makes the icons black */
   }
 
-  /* Center carousel and set background to ensure carousel slides are centered */
+
   .carousel-item img {
     margin: 0 auto;
   }
+  .text-justify {
+    text-align: justify;
+  }
+  .offer-text {
+   margin-top:70px;
+
+  }
+
+
+
