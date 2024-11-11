@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+html{
+  scroll-behavior:smooth;
+}
+
 .explore-btn {
   background-color: #4CAF50; /* Green */
   color: white;
