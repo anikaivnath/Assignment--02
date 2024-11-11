@@ -1,10 +1,28 @@
 
 .bg-color{
   background-color: #b2ebd4; 
+
+}
+
+ .custom-navbar {
+  background-color: #b2ebd4 !important; /* Background color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.navbar-brand, .nav-link {
+  color: green !important;
+  font-weight: bolder;
 }
   .fashion-text h1 {
     font-weight: bold;
     font-size: 2.5rem;
+  }
+  .container1{
+     background-color: #b2ebd4;
+     margin: auto; 
+     position: fixed;
+     top: 0;
+
   }
   .explore-btn {
     background-color: #242525; /* Dark button background */
