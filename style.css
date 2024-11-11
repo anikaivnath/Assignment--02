@@ -92,5 +92,8 @@
  .pic3{
   padding-top: 8px;
  }
-
+ .star a {
+  color: rgb(255, 255, 59);
+  text-decoration: none;
+ }
  
