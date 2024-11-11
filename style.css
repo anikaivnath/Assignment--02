@@ -14,9 +14,12 @@
   font-weight: bolder;
 }
 
-.container{
+.bg-color{
   background-color: #b2ebd4;
 
+}
+.full{
+    background-color: #b2ebd4; 
 }
   .fashion-text h1 {
     font-weight: bold;
